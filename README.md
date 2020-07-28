@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://capella.pics/abbc870b-6b0c-4027-8620-fb07347daad3.jpg/crop/1/cover/fff/resize/600)
+### Hi there 👋 ![](https://capella.pics/abbc870b-6b0c-4027-8620-fb07347daad3.jpg/cover/fff/crop/276x1&50,50)
 
 <!--
 **talyguryn/talyguryn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
