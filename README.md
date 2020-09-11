@@ -2,6 +2,7 @@
 
 ### ✨ Updates
  
+- [Docker and docker-compose installation](https://gist.github.com/talyguryn/e3f46f2580b475935d97a40ad9344f76) — `11 Sep`
 - [Dynamic content for GitHub pages](https://gist.github.com/talyguryn/9f19b4d540d0b06316fb56caa81e6c17) — `28 Aug`
 - [Dockerized Node.js app with MongoDB](https://gist.github.com/talyguryn/e7a782067edbc8ad99e1c7ed6fa26ca8) — `28 Aug`
 
@@ -22,6 +23,7 @@
 
 ### DevOps
 
+- ⭐️ [Docker and docker-compose installation](https://gist.github.com/talyguryn/e3f46f2580b475935d97a40ad9344f76)
 - ⭐️ [Secure copying between servers via scp utility](https://gist.github.com/talyguryn/ec480e7ce4ccf8b1e0e911228c7f7347)
 - [How to add /phpmyadmin section to your sites](https://gist.github.com/talyguryn/902c0703aa036c61c8b68b64ca90ee3c)
 - [Resolving subdomains dynamically via Nginx](https://gist.github.com/talyguryn/baf466872e80d25f88548e4e0d9525df)
