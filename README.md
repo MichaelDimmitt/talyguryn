@@ -1,4 +1,4 @@
-## ✨ Updates
+### ✨ Updates
  
 - 😎 CodeX is looking for new developers, designers, and DevOps engineers. Join the team at [codex.so/join](https://codex.so/join) — `12 Sep`
 - [Docker and docker-compose installation](https://gist.github.com/talyguryn/e3f46f2580b475935d97a40ad9344f76) — `11 Sep`
@@ -7,15 +7,15 @@
 
 ---
 
-## Notes
+### Notes
 
-### GitHub
+#### GitHub
 
 - ⭐️ [Git submodules cheatsheet](https://gist.github.com/talyguryn/773ce686c98c9da9dcc93a46284c9130)
 - 🔥 [Dynamic content for GitHub pages](https://gist.github.com/talyguryn/9f19b4d540d0b06316fb56caa81e6c17)
 - [Collapsed block for GitHub markdown](https://gist.github.com/talyguryn/b3ea925764ada03a965f61024eb96a4f)
 
-### Node.js
+#### Node.js
 
 - ⭐️ [Dockerized Node.js app with MongoDB](https://gist.github.com/talyguryn/e7a782067edbc8ad99e1c7ed6fa26ca8)
 - [How to install the latest Node.js, NPM and Yarn](https://gist.github.com/talyguryn/769a6133b3219ab47c2fe8d961fbf33e)
@@ -24,7 +24,7 @@
 - [Electron IPC](https://gist.github.com/talyguryn/5c46f26b55ffc6aea1bb3d3b03899a04)
 - [Handling any POST data in Express](https://gist.github.com/talyguryn/dc534173a7b2fb5a52db8d27bc6180db)
 
-### DevOps
+#### DevOps
 
 - ⭐️ [Docker and docker-compose installation](https://gist.github.com/talyguryn/e3f46f2580b475935d97a40ad9344f76)
 - ⭐️ [Secure copying between servers via scp utility](https://gist.github.com/talyguryn/ec480e7ce4ccf8b1e0e911228c7f7347)
