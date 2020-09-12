@@ -2,7 +2,7 @@
  
 #### 12 Sep 
  
-😎 CodeX is looking for new developers, designers, and DevOps engineers. Join the team at [codex.so/join](https://codex.so/join)
+- 😎 CodeX is looking for new developers, designers, and DevOps engineers. Join the team at [codex.so/join](https://codex.so/join)
 
 #### 11 Sep
 
