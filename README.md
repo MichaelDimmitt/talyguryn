@@ -1,10 +1,13 @@
-## Notes
-
-### ✨ Updates
+## ✨ Updates
  
+- 😎 CodeX is looking for new developers, designers, and DevOps engineers. Join the team at [codex.so/join](https://codex.so/join) — `12 Sep`
 - [Docker and docker-compose installation](https://gist.github.com/talyguryn/e3f46f2580b475935d97a40ad9344f76) — `11 Sep`
 - [Dynamic content for GitHub pages](https://gist.github.com/talyguryn/9f19b4d540d0b06316fb56caa81e6c17) — `28 Aug`
 - [Dockerized Node.js app with MongoDB](https://gist.github.com/talyguryn/e7a782067edbc8ad99e1c7ed6fa26ca8) — `28 Aug`
+
+---
+
+## Notes
 
 ### GitHub
 
