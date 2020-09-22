@@ -5,6 +5,10 @@
 - [Настройка автоматического обновления Electron-приложения](https://vc.ru/dev/160293)
 - [Проверка IP-адреса сервера в спам-базах](https://vc.ru/dev/160314)
 
+#### 12 Sep
+
+- 😎 CodeX is looking for new developers, designers, and DevOps engineers. Join the team at [codex.so/join](https://codex.so/join)
+
 #### 11 Sep
 
 - [Docker and docker-compose installation](https://gist.github.com/talyguryn/e3f46f2580b475935d97a40ad9344f76)
