@@ -1,8 +1,9 @@
 ### ✨ Updates
  
-#### 12 Sep 
- 
-- 😎 CodeX is looking for new developers, designers, and DevOps engineers. Join the team at [codex.so/join](https://codex.so/join)
+#### 21 Sep
+
+- [Настройка автоматического обновления Electron-приложения](https://vc.ru/dev/160293)
+- [Проверка IP-адреса сервера в спам-базах](https://vc.ru/dev/160314)
 
 #### 11 Sep
 
