@@ -1,22 +1,15 @@
+[![](https://capella.pics/d33585a9-4845-4317-938f-bb83c36be148.jpg)](https://codex.so/join)
+
 ### ✨ Updates
+ 
+#### 12 Nov
+
+- 💥 Awesome [@codex_bot notifier](https://github.com/marketplace/actions/codex_bot-notifier) action for your build steps
  
 #### 21 Sep
 
 - [Настройка автоматического обновления Electron-приложения](https://vc.ru/dev/160293)
 - [Проверка IP-адреса сервера в спам-базах](https://vc.ru/dev/160314)
-
-#### 12 Sep
-
-- 😎 CodeX is looking for new developers, designers, and DevOps engineers. Join the team at [codex.so/join](https://codex.so/join)
-
-#### 11 Sep
-
-- [Docker and docker-compose installation](https://gist.github.com/talyguryn/e3f46f2580b475935d97a40ad9344f76)
-
-#### 28 Aug
-
-- [Dynamic content for GitHub pages](https://gist.github.com/talyguryn/9f19b4d540d0b06316fb56caa81e6c17)
-- [Dockerized Node.js app with MongoDB](https://gist.github.com/talyguryn/e7a782067edbc8ad99e1c7ed6fa26ca8)
 
 ---
 
