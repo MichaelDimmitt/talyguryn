@@ -1,7 +1,11 @@
 [![](https://capella.pics/d33585a9-4845-4317-938f-bb83c36be148.jpg)](https://codex.so/join)
 
 ### ✨ Updates
- 
+
+#### 16 Nov
+
+— Now you can [get node package info](https://github.com/codex-team/action-nodejs-package-info) in GitHub Actions
+
 #### 12 Nov
 
 - 💥 Awesome [@codex_bot notifier](https://github.com/marketplace/actions/codex_bot-notifier) action for your build steps
