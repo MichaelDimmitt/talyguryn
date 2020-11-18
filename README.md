@@ -2,23 +2,28 @@
 
 ### ✨ Updates
 
+#### 18 Nov
+
+- How many days until the end of the validity of the SSL-certificate? When is it time to renew your domain? [action-check-domain](https://github.com/codex-team/action-check-domain) will help you remember to do these routine tasks
+
 #### 16 Nov
 
-— Now you can [get node package info](https://github.com/codex-team/action-nodejs-package-info) in GitHub Actions
+- Now you can [get node package info](https://github.com/codex-team/action-nodejs-package-info) in GitHub Actions
 
 #### 12 Nov
 
 - 💥 Awesome [@codex_bot notifier](https://github.com/marketplace/actions/codex_bot-notifier) action for your build steps
- 
-#### 21 Sep
-
-- [Настройка автоматического обновления Electron-приложения](https://vc.ru/dev/160293)
-- [Проверка IP-адреса сервера в спам-базах](https://vc.ru/dev/160314)
 
 ---
 
-### Notes
 
+
+
+
+<details>
+<summary>Notes List</summary>
+<p>
+ 
 #### GitHub
 
 - ⭐️ [Git submodules cheatsheet](https://gist.github.com/talyguryn/773ce686c98c9da9dcc93a46284c9130)
@@ -43,5 +48,6 @@
 - [Enable ssh root login access](https://gist.github.com/talyguryn/acee1431c0a208240fcd31f17024d854)
 - [Mongo DB export/import databases](https://gist.github.com/talyguryn/69f45ca1d484727354f369309a50f488)
 - [How to get and install a wildcard SSL certificate](https://gist.github.com/talyguryn/bd0f30ab3eb183afbe9521261adfbc60)
-
-<!--<img src="https://telegra.ph/file/4d3b9b7aa79bec03f084a.gif" alt="coffee" width="33%"/><img src="https://telegra.ph/file/4d3b9b7aa79bec03f084a.gif" alt="coffee" width="33%"/><img src="https://telegra.ph/file/4d3b9b7aa79bec03f084a.gif" alt="coffee" width="33%"/> -->
+   
+</p>
+</details>
