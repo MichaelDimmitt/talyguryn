@@ -12,13 +12,7 @@
 
 #### 12 Nov
 
-- 💥 Awesome [@codex_bot notifier](https://github.com/marketplace/actions/codex_bot-notifier) action for your build steps
-
----
-
-
-
-
+- Awesome [@codex_bot notifier](https://github.com/marketplace/actions/codex_bot-notifier) action for your build steps
 
 <details>
 <summary>Notes List</summary>
