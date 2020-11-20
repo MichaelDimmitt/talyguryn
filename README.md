@@ -2,6 +2,14 @@
 
 ### ✨ Updates
 
+#### 20 Nov
+
+- [Resolving subdomains dynamically via Nginx](https://codex.so/resolving-subdomains-dynamically-via-nginx)
+
+#### 19 Nov
+
+- [Dynamic content for GitHub pages](https://codex.so/dynamic-content-for-github-pages)
+
 #### 18 Nov
 
 - How many days until the end of the validity of the SSL-certificate? When is it time to renew your domain? [action-check-domain](https://github.com/codex-team/action-check-domain) will help you remember to do these routine tasks
@@ -23,7 +31,6 @@
 #### GitHub
 
 - ⭐️ [Git submodules cheatsheet](https://gist.github.com/talyguryn/773ce686c98c9da9dcc93a46284c9130)
-- 🔥 [Dynamic content for GitHub pages](https://gist.github.com/talyguryn/9f19b4d540d0b06316fb56caa81e6c17)
 - [Collapsed block for GitHub markdown](https://gist.github.com/talyguryn/b3ea925764ada03a965f61024eb96a4f)
 
 #### Node.js
@@ -40,7 +47,6 @@
 - ⭐️ [Docker and docker-compose installation](https://gist.github.com/talyguryn/e3f46f2580b475935d97a40ad9344f76)
 - ⭐️ [Secure copying between servers via scp utility](https://gist.github.com/talyguryn/ec480e7ce4ccf8b1e0e911228c7f7347)
 - [How to add /phpmyadmin section to your sites](https://gist.github.com/talyguryn/902c0703aa036c61c8b68b64ca90ee3c)
-- [Resolving subdomains dynamically via Nginx](https://gist.github.com/talyguryn/baf466872e80d25f88548e4e0d9525df)
 - [Enable ssh root login access](https://gist.github.com/talyguryn/acee1431c0a208240fcd31f17024d854)
 - [Mongo DB export/import databases](https://gist.github.com/talyguryn/69f45ca1d484727354f369309a50f488)
 - [How to get and install a wildcard SSL certificate](https://gist.github.com/talyguryn/bd0f30ab3eb183afbe9521261adfbc60)
