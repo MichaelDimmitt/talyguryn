@@ -57,3 +57,21 @@
    
 </p>
 </details>
+
+<details>
+<summary>Dev area</summary>
+<p>
+
+<img src="https://telegra.ph/file/4d3b9b7aa79bec03f084a.gif" alt="coffee" width="20%"/><img src="https://telegra.ph/file/4d3b9b7aa79bec03f084a.gif" alt="coffee" width="20%"/><img src="https://telegra.ph/file/4d3b9b7aa79bec03f084a.gif" alt="coffee" width="20%"/><img src="https://telegra.ph/file/4d3b9b7aa79bec03f084a.gif" alt="coffee" width="20%"/><img src="https://telegra.ph/file/4d3b9b7aa79bec03f084a.gif" alt="coffee" width="20%"/>
+
+<img src="https://telegra.ph/file/4d3b9b7aa79bec03f084a.gif" alt="coffee" width="25%"/><img src="https://telegra.ph/file/4d3b9b7aa79bec03f084a.gif" alt="coffee" width="25%"/><img src="https://telegra.ph/file/4d3b9b7aa79bec03f084a.gif" alt="coffee" width="25%"/><img src="https://telegra.ph/file/4d3b9b7aa79bec03f084a.gif" alt="coffee" width="25%"/>
+
+<img src="https://telegra.ph/file/4d3b9b7aa79bec03f084a.gif" alt="coffee" width="33%"/><img src="https://telegra.ph/file/4d3b9b7aa79bec03f084a.gif" alt="coffee" width="33%"/><img src="https://telegra.ph/file/4d3b9b7aa79bec03f084a.gif" alt="coffee" width="33%"/>
+
+
+<img src="https://telegra.ph/file/4d3b9b7aa79bec03f084a.gif" alt="coffee" width="50%"/><img src="https://telegra.ph/file/4d3b9b7aa79bec03f084a.gif" alt="coffee" width="50%"/>
+
+<img src="https://telegra.ph/file/4d3b9b7aa79bec03f084a.gif" alt="coffee" width="100%"/>
+
+</p>
+</details>
