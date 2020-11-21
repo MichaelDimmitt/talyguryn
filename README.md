@@ -2,8 +2,13 @@
 
 ### ✨ Updates
 
+#### 21 Nov
+
+- [Secure copying between servers via scp utility](https://codex.so/secure-copying-between-servers-via-scp-utility)
+
 #### 20 Nov
 
+- [Show hidden files in Finder on Mac](https://codex.so/show-hidden-files-in-finder-on-mac)
 - [Resolving subdomains dynamically via Nginx](https://codex.so/resolving-subdomains-dynamically-via-nginx)
 
 #### 19 Nov
@@ -45,7 +50,6 @@
 #### DevOps
 
 - ⭐️ [Docker and docker-compose installation](https://gist.github.com/talyguryn/e3f46f2580b475935d97a40ad9344f76)
-- ⭐️ [Secure copying between servers via scp utility](https://gist.github.com/talyguryn/ec480e7ce4ccf8b1e0e911228c7f7347)
 - [How to add /phpmyadmin section to your sites](https://gist.github.com/talyguryn/902c0703aa036c61c8b68b64ca90ee3c)
 - [Enable ssh root login access](https://gist.github.com/talyguryn/acee1431c0a208240fcd31f17024d854)
 - [Mongo DB export/import databases](https://gist.github.com/talyguryn/69f45ca1d484727354f369309a50f488)
