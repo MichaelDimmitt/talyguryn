@@ -2,6 +2,10 @@
 
 ### ✨ Updates
 
+#### 22 Nov
+
+- [How to install the latest Node.js, NPM and Yarn](https://codex.so/how-to-install-the-latest-node-js-npm-and-yarn)
+
 #### 21 Nov
 
 - [Secure copying between servers via scp utility](https://codex.so/secure-copying-between-servers-via-scp-utility)
@@ -41,7 +45,6 @@
 #### Node.js
 
 - ⭐️ [Dockerized Node.js app with MongoDB](https://gist.github.com/talyguryn/e7a782067edbc8ad99e1c7ed6fa26ca8)
-- [How to install the latest Node.js, NPM and Yarn](https://gist.github.com/talyguryn/769a6133b3219ab47c2fe8d961fbf33e)
 - [Webpack lazy-loading chunks](https://gist.github.com/talyguryn/0fa2076a8781359c19bd46ce914f31b9)
 - [Autoupdates for Electron App](https://gist.github.com/talyguryn/85abb18e93ce6ce928c8a20e6ad4b233)
 - [Electron IPC](https://gist.github.com/talyguryn/5c46f26b55ffc6aea1bb3d3b03899a04)
