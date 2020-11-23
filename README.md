@@ -2,6 +2,10 @@
 
 ### ✨ Updates
 
+#### 23 Nov
+
+- [Clone branch into another with git](https://codex.so/reset-git-branch)
+
 #### 22 Nov
 
 - [How to install the latest Node.js, NPM and Yarn](https://codex.so/how-to-install-the-latest-node-js-npm-and-yarn)
