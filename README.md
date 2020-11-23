@@ -2,6 +2,10 @@
 
 ### ✨ Updates
 
+#### 24 Nov
+
+- [Dockerized Node.js app with MongoDB](https://codex.so/dockerized-node-js-app-with-mongodb)
+
 #### 23 Nov
 
 - [Clone branch into another with git](https://codex.so/reset-git-branch)
@@ -48,7 +52,6 @@
 
 #### Node.js
 
-- ⭐️ [Dockerized Node.js app with MongoDB](https://gist.github.com/talyguryn/e7a782067edbc8ad99e1c7ed6fa26ca8)
 - [Webpack lazy-loading chunks](https://gist.github.com/talyguryn/0fa2076a8781359c19bd46ce914f31b9)
 - [Autoupdates for Electron App](https://gist.github.com/talyguryn/85abb18e93ce6ce928c8a20e6ad4b233)
 - [Electron IPC](https://gist.github.com/talyguryn/5c46f26b55ffc6aea1bb3d3b03899a04)
