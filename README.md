@@ -1,4 +1,4 @@
-[![](https://capella.pics/d33585a9-4845-4317-938f-bb83c36be148.jpg)](https://codex.so/join)
+[![](https://capella.pics/28d678aa-0c5e-420f-9676-fa5a83abfecf.jpg)](https://codex.so/join)
 
 ### ✨ Updates
 
