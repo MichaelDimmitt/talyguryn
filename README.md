@@ -8,7 +8,7 @@
 
 #### 23 Nov
 
-- [Clone branch into another with git](https://codex.so/reset-git-branch)
+- ⭐️ [Clone branch into another with git](https://codex.so/reset-git-branch)
 
 #### 22 Nov
 
@@ -25,7 +25,11 @@
 
 #### 19 Nov
 
-- [Dynamic content for GitHub pages](https://codex.so/dynamic-content-for-github-pages)
+- 🔥 [Dynamic content for GitHub pages](https://codex.so/dynamic-content-for-github-pages)
+
+<details>
+<summary>Older</summary>
+<p>
 
 #### 18 Nov
 
@@ -38,6 +42,9 @@
 #### 12 Nov
 
 - Awesome [@codex_bot notifier](https://github.com/marketplace/actions/codex_bot-notifier) action for your build steps
+
+</p>
+</details>
 
 ---
 
