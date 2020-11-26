@@ -74,10 +74,8 @@
 
 #### DevOps
 
-- ⭐️ [Docker and docker-compose installation](https://gist.github.com/talyguryn/e3f46f2580b475935d97a40ad9344f76)
 - [How to add /phpmyadmin section to your sites](https://gist.github.com/talyguryn/902c0703aa036c61c8b68b64ca90ee3c)
 - [Enable ssh root login access](https://gist.github.com/talyguryn/acee1431c0a208240fcd31f17024d854)
-- [Mongo DB export/import databases](https://gist.github.com/talyguryn/69f45ca1d484727354f369309a50f488)
 - [How to get and install a wildcard SSL certificate](https://gist.github.com/talyguryn/bd0f30ab3eb183afbe9521261adfbc60)
    
 </p>
