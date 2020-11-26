@@ -2,6 +2,14 @@
 
 ### ✨ Updates
 
+#### 26 Nov
+
+- [Mongo DB export and import databases](https://codex.so/mongo-db-export-and-import-databases)
+
+#### 25 Nov
+
+- [Docker and docker-compose installation](https://codex.so/docker-and-docker-compose-installation)
+
 #### 24 Nov
 
 - [Dockerized Node.js app with MongoDB](https://codex.so/dockerized-node-js-app-with-mongodb)
@@ -9,6 +17,10 @@
 #### 23 Nov
 
 - ⭐️ [Clone branch into another with git](https://codex.so/reset-git-branch)
+
+<details>
+<summary>Older</summary>
+<p>
 
 #### 22 Nov
 
@@ -26,10 +38,6 @@
 #### 19 Nov
 
 - 🔥 [Dynamic content for GitHub pages](https://codex.so/dynamic-content-for-github-pages)
-
-<details>
-<summary>Older</summary>
-<p>
 
 #### 18 Nov
 
