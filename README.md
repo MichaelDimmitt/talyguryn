@@ -2,6 +2,10 @@
 
 ### ✨ Updates
 
+#### 27 Nov
+
+- [How to add /phpmyadmin section to your sites](https://codex.so/how-to-add-phpmyadmin-section-to-your-sites)
+
 #### 26 Nov
 
 - [Mongo DB export and import databases](https://codex.so/mongo-db-export-and-import-databases)
