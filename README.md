@@ -2,6 +2,10 @@
 
 ### ✨ Updates
 
+#### 29 Nov
+
+- [Regexp for Instagram posts](https://codex.so/regexp-for-instagram-posts)
+
 #### 27 Nov
 
 - [How to add /phpmyadmin section to your sites](https://codex.so/how-to-add-phpmyadmin-section-to-your-sites)
