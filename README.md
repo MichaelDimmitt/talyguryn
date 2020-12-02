@@ -2,6 +2,14 @@
 
 ### ✨ Updates
 
+#### 2 Dec
+
+- [Webpack lazy-loading chunks](https://codex.so/webpack-lazy-loading-chunks) 
+
+#### 30 Nov
+
+- [Regexp for Instagram posts](https://codex.so/regexp-for-instagram-posts)
+
 #### 29 Nov
 
 - [Regexp for Instagram posts](https://codex.so/regexp-for-instagram-posts)
@@ -14,6 +22,10 @@
 
 - [Mongo DB export and import databases](https://codex.so/mongo-db-export-and-import-databases)
 
+<details>
+<summary>Older</summary>
+<p>
+ 
 #### 25 Nov
 
 - [Docker and docker-compose installation](https://codex.so/docker-and-docker-compose-installation)
@@ -25,10 +37,6 @@
 #### 23 Nov
 
 - ⭐️ [Clone branch into another with git](https://codex.so/reset-git-branch)
-
-<details>
-<summary>Older</summary>
-<p>
 
 #### 22 Nov
 
