@@ -2,6 +2,38 @@
 
 ### ✨ Updates
 
+#### 16 Jan
+
+- [How to delete a git tag](https://codex.so/how-to-delete-a-git-tag) 
+
+#### 14 Jan
+
+- [Wildcard SSL certificate by Let's Encrypt](https://codex.so/wildcard-ssl-certificate-by-let-s-encrypt) 
+
+#### 12 Jan
+
+- [Handling any POST data in Express](https://codex.so/handling-any-post-data-in-express) 
+- [Git submodules cheatsheet](https://codex.so/git-submodules-cheatsheet) 
+- [FFmpeg + Node.js](https://codex.so/ffmpeg-node-js) 
+- [Gitify — GitHub notifications on your menu bar](https://codex.so/github-notifications-on-your-menu-bar) 
+- [Fix fisheye distortion for GoPro videos](Fix fisheye distortion for GoPro videos) 
+
+#### 1 Jan
+
+- [Enable custom webcam for Discord app on macOS](https://codex.so/enable-custom-webcam-for-discord-app-on-macos) 
+
+#### 28 Dec
+
+- [Electron IPC](https://codex.so/electron-ipc) 
+
+#### 22 Dec
+
+- [NightOwl — tray dark mode toggler for macOS](https://codex.so/nightowl-tray-dark-mode-toggler-for-macos) 
+
+<details>
+<summary>Older</summary>
+<p>
+
 #### 2 Dec
 
 - [Webpack lazy-loading chunks](https://codex.so/webpack-lazy-loading-chunks) 
@@ -21,10 +53,6 @@
 #### 26 Nov
 
 - [Mongo DB export and import databases](https://codex.so/mongo-db-export-and-import-databases)
-
-<details>
-<summary>Older</summary>
-<p>
  
 #### 25 Nov
 
