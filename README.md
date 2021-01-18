@@ -106,19 +106,13 @@
  
 #### GitHub
 
-- ⭐️ [Git submodules cheatsheet](https://gist.github.com/talyguryn/773ce686c98c9da9dcc93a46284c9130)
 - [Collapsed block for GitHub markdown](https://gist.github.com/talyguryn/b3ea925764ada03a965f61024eb96a4f)
 
 #### Node.js
 
-- [Webpack lazy-loading chunks](https://gist.github.com/talyguryn/0fa2076a8781359c19bd46ce914f31b9)
 - [Autoupdates for Electron App](https://gist.github.com/talyguryn/85abb18e93ce6ce928c8a20e6ad4b233)
-- [Electron IPC](https://gist.github.com/talyguryn/5c46f26b55ffc6aea1bb3d3b03899a04)
-- [Handling any POST data in Express](https://gist.github.com/talyguryn/dc534173a7b2fb5a52db8d27bc6180db)
 
 #### DevOps
-
-- [How to add /phpmyadmin section to your sites](https://gist.github.com/talyguryn/902c0703aa036c61c8b68b64ca90ee3c)
 - [Enable ssh root login access](https://gist.github.com/talyguryn/acee1431c0a208240fcd31f17024d854)
 - [How to get and install a wildcard SSL certificate](https://gist.github.com/talyguryn/bd0f30ab3eb183afbe9521261adfbc60)
    
