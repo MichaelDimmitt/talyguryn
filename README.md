@@ -2,6 +2,10 @@
 
 ### ✨ Updates
 
+#### 18 Jan
+
+- [Collapsed block for GitHub markdown](https://codex.so/collapsed-block-for-github-markdown) 
+
 #### 16 Jan
 
 - [How to delete a git tag](https://codex.so/how-to-delete-a-git-tag) 
@@ -103,10 +107,6 @@
 <details>
 <summary>Notes List</summary>
 <p>
- 
-#### GitHub
-
-- [Collapsed block for GitHub markdown](https://gist.github.com/talyguryn/b3ea925764ada03a965f61024eb96a4f)
 
 #### Node.js
 
