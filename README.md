@@ -16,7 +16,7 @@
 - [Git submodules cheatsheet](https://codex.so/git-submodules-cheatsheet) 
 - [FFmpeg + Node.js](https://codex.so/ffmpeg-node-js) 
 - [Gitify — GitHub notifications on your menu bar](https://codex.so/github-notifications-on-your-menu-bar) 
-- [Fix fisheye distortion for GoPro videos](Fix fisheye distortion for GoPro videos) 
+- [Fix fisheye distortion for GoPro videos](https://codex.so/fix-fisheye-distortion-for-gopro-videos) 
 
 #### 1 Jan
 
