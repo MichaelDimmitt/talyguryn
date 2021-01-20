@@ -2,6 +2,10 @@
 
 ### ✨ Updates
 
+#### 20 Jan
+
+- [Add missing EXIF info for manual lens](https://codex.so/add-missing-exif-info-for-manual-lens)
+
 #### 18 Jan
 
 - [Collapsed block for GitHub markdown](https://codex.so/collapsed-block-for-github-markdown) 
