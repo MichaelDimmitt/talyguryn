@@ -26,6 +26,10 @@
 - [Gitify — GitHub notifications on your menu bar](https://codex.so/github-notifications-on-your-menu-bar) 
 - [Fix fisheye distortion for GoPro videos](https://codex.so/fix-fisheye-distortion-for-gopro-videos) 
 
+<details>
+<summary>Older</summary>
+<p>
+
 #### 1 Jan
 
 - [Enable custom webcam for Discord app on macOS](https://codex.so/enable-custom-webcam-for-discord-app-on-macos) 
@@ -37,10 +41,6 @@
 #### 22 Dec
 
 - [NightOwl — tray dark mode toggler for macOS](https://codex.so/nightowl-tray-dark-mode-toggler-for-macos) 
-
-<details>
-<summary>Older</summary>
-<p>
 
 #### 2 Dec
 
