@@ -2,6 +2,10 @@
 
 ### ✨ Updates
 
+#### 1 Feb
+
+- [Delete duplicate files via fdupes](https://codex.so/delete-duplicate-files-via-fdupes)
+
 #### 20 Jan
 
 - [Add missing EXIF info for manual lens](https://codex.so/add-missing-exif-info-for-manual-lens)
