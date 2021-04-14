@@ -2,6 +2,20 @@
 
 ### ✨ Updates
 
+#### 14 Apr
+
+- [SSH tunnel to Raspberry Pi](https://codex.so/ssh-tunnel-to-raspberry-pi)
+- [How to install Docker to Raspberry Pi](https://codex.so/how-to-install-docker-to-raspberry-pi)
+
+
+#### 12 Apr
+
+- [Raspberry Pi — first setting up](https://codex.so/raspberry-pi-first-setting-up)
+
+#### 10 Mar
+
+- [How to open project folder in IDE with Automator](https://codex.so/how-to-open-project-folder-in-ide-with-automator)
+
 #### 1 Feb
 
 - [Delete duplicate files via fdupes](https://codex.so/delete-duplicate-files-via-fdupes)
@@ -13,6 +27,10 @@
 #### 18 Jan
 
 - [Collapsed block for GitHub markdown](https://codex.so/collapsed-block-for-github-markdown) 
+
+<details>
+<summary>Older</summary>
+<p>
 
 #### 16 Jan
 
@@ -30,9 +48,6 @@
 - [Gitify — GitHub notifications on your menu bar](https://codex.so/github-notifications-on-your-menu-bar) 
 - [Fix fisheye distortion for GoPro videos](https://codex.so/fix-fisheye-distortion-for-gopro-videos) 
 
-<details>
-<summary>Older</summary>
-<p>
 
 #### 1 Jan
 
