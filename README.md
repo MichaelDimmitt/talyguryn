@@ -2,6 +2,10 @@
 
 ### ✨ Updates
 
+#### 20 Apr
+
+- [Kiosk mode on Raspberry Pi](https://codex.so/kiosk-mode-on-raspberry-pi)
+
 #### 14 Apr
 
 - [SSH tunnel to Raspberry Pi](https://codex.so/ssh-tunnel-to-raspberry-pi)
