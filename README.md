@@ -1,6 +1,20 @@
+<!--
+
 [![](https://capella.pics/28d678aa-0c5e-420f-9676-fa5a83abfecf.jpg)](https://codex.so/join)
 
-### ✨ Updates
+-->
+
+## 🔥 CodeX Lab
+
+How to make a cool space from a boring classroom — [codex.so/lab-renovation-process](https://codex.so/lab-renovation-process)
+
+[![](https://capella.pics/2c5df5ea-b6ad-4dc8-af9e-ab8609808226.jpg/resize/1600)](https://codex.so/lab-renovation-process)
+
+## Last updates for [codex.so/taly](codex.so/taly)
+
+#### 14 May
+
+- [Lab renovation process](https://codex.so/lab-renovation-process)
 
 #### 20 Apr
 
@@ -11,10 +25,13 @@
 - [SSH tunnel to Raspberry Pi](https://codex.so/ssh-tunnel-to-raspberry-pi)
 - [How to install Docker to Raspberry Pi](https://codex.so/how-to-install-docker-to-raspberry-pi)
 
-
 #### 12 Apr
 
 - [Raspberry Pi — first setting up](https://codex.so/raspberry-pi-first-setting-up)
+
+<details>
+<summary>Older</summary>
+<p>
 
 #### 10 Mar
 
@@ -32,10 +49,6 @@
 
 - [Collapsed block for GitHub markdown](https://codex.so/collapsed-block-for-github-markdown) 
 
-<details>
-<summary>Older</summary>
-<p>
-
 #### 16 Jan
 
 - [How to delete a git tag](https://codex.so/how-to-delete-a-git-tag) 
@@ -51,7 +64,6 @@
 - [FFmpeg + Node.js](https://codex.so/ffmpeg-node-js) 
 - [Gitify — GitHub notifications on your menu bar](https://codex.so/github-notifications-on-your-menu-bar) 
 - [Fix fisheye distortion for GoPro videos](https://codex.so/fix-fisheye-distortion-for-gopro-videos) 
-
 
 #### 1 Jan
 
